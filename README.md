@@ -12,7 +12,7 @@ This project uses machine learning to analyze the sentiment of tweets, classifyi
 
 ## 👨‍💻 Contributors
 
-- M. Rafef  
+- M. Rafeh  
 
 ## 🚀 Project Features
 
